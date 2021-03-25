@@ -1,0 +1,31 @@
+body{
+  background-color: white;
+}
+.travel{
+  margin:10px;
+margin-top: 30px;
+  border-radius: 10px;
+overflow: hidden;
+float:right;
+transition: transform 100ms ease-in;
+margin-right: 50px;
+cursor:pointer;
+text-decoration-color: white;
+  width: 20%;
+padding: 5px;
+margin-top: 50px;
+}
+.travel:hover{
+  transform:scale(1.08);
+}
+h3{
+
+  font-family: 'Nunito', sans-serif;
+}
+.travel> img {
+  object-fit: fill;
+  width: 350px;
+  height: 300px;
+  width:100%;
+  margin-bottom: 8px;
+}

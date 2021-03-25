@@ -1,0 +1,35 @@
+.footer{
+  background-image: url("https://a0.muscache.com/im/pictures/eff28e1d-51c4-49ff-8266-68d6929ea1ec.jpg?im_w=720");
+z-index: 1;
+margin-bottom: 0px;
+margin-top: 1000px;
+background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 600px;
+}
+h1 {
+padding-top: 20px;
+	color: white;
+  font-family: 'Lexend', sans-serif;
+
+}
+h5{
+  color: white;
+  font-family: 'Lexend', sans-serif;
+}
+.footersearch{
+  background-color: black;
+  color: white;
+  padding-top: 25vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width:300px;
+}
+.footersearch>button{
+  margin-top: 20px;
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+}
